@@ -2,7 +2,6 @@ import { Injectable } from '@angular/core';
 
 import { AngularFirestore } from '@angular/fire/firestore';
 import { AngularFireStorage } from '@angular/fire/storage';
-// import { Restaurante } from './restaurante';
 import { finalize } from "rxjs/operators";
 
 @Injectable({
