@@ -9,7 +9,7 @@ export const environment = {
     authDomain: "findfood-faculdadeiv2.firebaseapp.com",
     projectId: "findfood-faculdadeiv2",
     storageBucket: "findfood-faculdadeiv2.appspot.com",
-    messagingSenderId: "678399540548",
+    messagingSenderId: "xxxxxxxxxxxxx",
     appId: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
   }
 };
